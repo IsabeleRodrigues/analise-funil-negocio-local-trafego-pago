@@ -55,7 +55,6 @@ formando uma audiência que pode se tornar cliente no futuro.
   em campanhas futuras (cansaço do criativo, fim da verba).
 
 
-
 ## Limitações
 - A atribuição dos clientes às ações é baseada no acompanhamento da autora, sem comprovação documental da origem de cada um.
 - O projeto não tem grupo de comparação, então não é possível afirmar que as melhorias foram a única causa.
@@ -78,6 +77,13 @@ formando uma audiência que pode se tornar cliente no futuro.
 
 ## Tecnologias
 Gerenciador de anúncios da Meta · Excel / Google Sheets *(inclua SQL, Python ou Power BI só se for usar)*
+
+## Privacidade
+Nenhum nome de cliente, telefone ou identificação do negócio foi publicado.
+Os números foram usados com autorização da proprietária.
+
+## Autora
+Isabele Rodrigues · [LinkedIn](https://www.linkedin.com/in/isabelerodrigues-dados)
 
 ## Privacidade
 Nenhum nome de cliente, telefone ou identificação do negócio foi publicado.
