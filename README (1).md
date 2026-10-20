@@ -54,12 +54,7 @@ formando uma audiência que pode se tornar cliente no futuro.
 - **As conversas se concentraram nos primeiros dias** e caíram ao longo do período, o que vale investigar
   em campanhas futuras (cansaço do criativo, fim da verba).
 
-## Evidências
-Prints do gerenciador de anúncios, sem dados pessoais.
 
-![Valor usado por faixa etária](evidencias/01-gasto-por-faixa-etaria.png)
-![Conversas e custo por conversa](evidencias/02-conversas-e-custo.png)
-![Alcance e resultados por plataforma](evidencias/03-plataforma.png)
 
 ## Limitações
 - A atribuição dos clientes às ações é baseada no acompanhamento da autora, sem comprovação documental da origem de cada um.
