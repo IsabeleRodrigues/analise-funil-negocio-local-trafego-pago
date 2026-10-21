@@ -68,13 +68,6 @@ formando uma audiência que pode se tornar cliente no futuro.
 - Concentrar o investimento no Instagram e medir o efeito.
 - Acompanhar a recompra e a conversão de seguidores em clientes.
 
-## Estrutura do repositório
-```
-├── README.md
-├── evidencias/   # prints do gerenciador de anúncios
-├── dados/        # planilha anonimizada (sem nomes nem telefones)
-└── analise/      # notebook ou consultas SQL
-```
 
 ## Tecnologias
 Gerenciador de anúncios da Meta · Excel / Google Sheets *(inclua SQL, Python ou Power BI só se for usar)*
