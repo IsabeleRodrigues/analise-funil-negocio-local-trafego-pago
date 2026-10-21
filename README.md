@@ -23,9 +23,9 @@ perdia oportunidades: alcance, atendimento e conversão de contatos em clientes?
 | Investimento em tráfego pago | R$ 100,16 | Gerenciador de anúncios |
 | Conversas por mensagem iniciada | 30 | Gerenciador de anúncios |
 | Custo por conversa | R$ 3,34 | Gerenciador de anúncios |
-| Período da campanha | início de maio de 2026 *[confirme as datas exatas]* | Gerenciador de anúncios |
+| Período da campanha | início de maio de 2026 | Gerenciador de anúncios |
 | Clientes atendidos após as melhorias | ~17 | Acompanhamento da autora |
-| Seguidores e alcance do perfil | *[inclua antes/depois, se tiver]* | Insights do Instagram |
+| Seguidores e alcance do perfil | Insights do Instagram |
 
 Além das vendas imediatas, pessoas que não fecharam o serviço passaram a seguir o perfil,
 formando uma audiência que pode se tornar cliente no futuro.
@@ -36,7 +36,7 @@ formando uma audiência que pode se tornar cliente no futuro.
 | Custo por conversa | R$ 100,16 ÷ 30 | R$ 3,34 |
 | Conversão (conversa → cliente) | 17 ÷ 30 | ≈ 57% |
 | CAC (custo por cliente) | R$ 100,16 ÷ 17 | ≈ R$ 5,89 |
-| ROAS | receita ÷ investimento | *[preencher com o ticket médio]* |
+| ROAS | receita ÷ investimento |
 
 > Nota sobre os dados: investimento, conversas e custo por conversa vêm do gerenciador de anúncios.
 > Os ~17 clientes são atribuídos às ações implementadas com base no acompanhamento da autora durante
@@ -70,11 +70,7 @@ formando uma audiência que pode se tornar cliente no futuro.
 
 
 ## Tecnologias
-Gerenciador de anúncios da Meta · Excel / Google Sheets *(inclua SQL, Python ou Power BI só se for usar)*
-
-## Privacidade
-Nenhum nome de cliente, telefone ou identificação do negócio foi publicado.
-Os números foram usados com autorização da proprietária.
+Gerenciador de anúncios da Meta · Excel / Google Sheets
 
 ## Autora
 Isabele Rodrigues · [LinkedIn](https://www.linkedin.com/in/isabelerodrigues-dados)
